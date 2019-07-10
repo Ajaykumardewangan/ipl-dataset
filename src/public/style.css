@@ -1,0 +1,20 @@
+
+.contain {
+  width: 1000px;
+   margin: 0 auto; 
+   margin-bottom: 70px;
+  
+  }
+  
+  .contain-won {
+   
+    min-width: 800px;
+    max-width: 950px;
+    height: 500px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+
+  }
+
+
+  
